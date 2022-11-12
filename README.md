@@ -1,1 +1,1 @@
-# simple-py
+# python aresnal
